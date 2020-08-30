@@ -1,6 +1,6 @@
 ### Brett Kromkamp's GitHub Profile
 
-You’ve reached Brett Kromkamp's GitHub profile. Welcome!
+You’ve reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Welcome!
 
 I am a Python and JavaScript developer in addition to being a semantic technologies and WebXR enthusiast.
 
