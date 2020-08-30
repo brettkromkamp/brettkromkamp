@@ -1,4 +1,4 @@
-### Brett Kromkamp's GitHub Profile
+## Brett Kromkamp's GitHub Profile
 
 You’ve reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Welcome!
 
@@ -8,12 +8,12 @@ I am a Python and JavaScript developer in addition to being a semantic technolog
 
 I contribute to and maintain [Contextualise](https://contextualise.dev/), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a couple of other open source projects.
 
-Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/), the combinination of semantic modelling with storytelling, [worldbuilding](https://www.reddit.com/r/worldbuilding/) and 3D modelling and animation.
+Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/), the combinination of semantic modelling with storytelling and [worldbuilding](https://www.reddit.com/r/worldbuilding/) together with 3D modelling and animation.
 
 My preferred technology stack includes:
 
 * [PostgreSQL](https://www.postgresql.org/) relational database
-* [Python 3](https://www.python.org/) programming language
+* [Python](https://www.python.org/) programming language
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) web framework
 * [Django](https://www.djangoproject.com/) web framework
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) programming language
