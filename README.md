@@ -2,13 +2,13 @@
 
 You’ve reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Welcome!
 
-I am a Python and JavaScript developer in addition to being a semantic technologies and WebXR enthusiast.
+I am a Python and JavaScript developer in addition to being a semantic technologies and 3D/WebXR enthusiast.
 
 ![Codex Roboticus](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/codex-roboticus.png)
 
 I contribute to and maintain [Contextualise](https://contextualise.dev/), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a couple of other open source projects.
 
-Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/), the combinination of semantic modelling with storytelling and [worldbuilding](https://www.reddit.com/r/worldbuilding/) together with 3D modelling and animation.
+Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/) in combinination with semantic modelling, storytelling and [worldbuilding](https://www.reddit.com/r/worldbuilding/).
 
 My preferred technology stack includes:
 
