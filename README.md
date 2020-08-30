@@ -6,7 +6,7 @@ I am a Python and JavaScript developer in addition to being a semantic technolog
 
 ![Codex Roboticus](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/codex-roboticus.png)
 
-I contribute to and maintain [Contextualise](https://contextualise.dev/), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a couple of other open source projects.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a couple of other open source projects.
 
 Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/) in combinination with semantic modelling, storytelling and [worldbuilding](https://www.reddit.com/r/worldbuilding/).
 
