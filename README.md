@@ -1,16 +1,13 @@
-### Hi there 👋
+### Brett Kromkamp's GitHub Profile
 
-<!--
-**brettkromkamp/brettkromkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You’ve reached Brett Kromkamp's GitHub profile. Welcome!
 
-Here are some ideas to get you started:
+I am a Python and JavaScript developer in addition to being a semantic technologies and WebXR enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Brett's Interests](resources/interests.png)
+
+I contribute to and maintain [Contextualise](https://contextualise.dev/), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a bunch of other open source projects. I also have several published Python projects on [PyPI](https://pypi.org/user/brettkromkamp/). 
+
+Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/), the combinination of semantic modeling with storytelling, [worldbuilding](https://www.reddit.com/r/worldbuilding/) and 3D modeling and animation.
+
+> *I will see you again, in the place where no shadows fall.* &mdash; Ambassador Delenn, Babylon 5
