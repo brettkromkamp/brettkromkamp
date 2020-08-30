@@ -10,4 +10,15 @@ I contribute to and maintain [Contextualise](https://contextualise.dev/), [Topic
 
 Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/), the combinination of semantic modeling with storytelling, [worldbuilding](https://www.reddit.com/r/worldbuilding/) and 3D modeling and animation.
 
+My preferred technology stack includes:
+
+* [PostgreSQL](https://www.postgresql.org/) relational database
+* [Python 3](https://www.python.org/) programming language
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/) web framework
+* [Django](https://www.djangoproject.com/) web framework
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) programming language
+* [Vue.js](https://vuejs.org/) frontend web framework
+* [three.js](https://threejs.org/) library for 3D web content
+* [Blender](https://www.blender.org/) 3D creation suite
+
 > *I will see you again, in the place where no shadows fall.* &mdash; Ambassador Delenn, Babylon 5
