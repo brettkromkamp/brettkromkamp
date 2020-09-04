@@ -8,7 +8,7 @@ I am a Python and JavaScript developer in addition to being a semantic technolog
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a couple of other open source projects.
 
-Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/) in combinination with semantic modelling, storytelling and [worldbuilding](https://www.reddit.com/r/worldbuilding/).
+Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/) and semantic modelling in combination with WebXR applications.
 
 My preferred technology stack includes:
 
