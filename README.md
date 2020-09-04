@@ -4,7 +4,7 @@
 
 You’ve reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Welcome!
 
-I am a Python and JavaScript developer in addition to being a semantic technologies and 3D/WebXR enthusiast.
+I am a Python and JavaScript developer in addition to being a semantic technologies and 3D/[WebXR](https://immersiveweb.dev/) enthusiast.
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a couple of other open source projects.
 
