@@ -12,12 +12,12 @@ Expect many of my projects and accompanying repositories to be related to (perso
 
 Technologies I enjoy working with, include:
 
-* [PostgreSQL](https://www.postgresql.org/) relational database
 * [Python](https://www.python.org/) programming language
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) web framework
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) programming language
 * [Vue.js](https://vuejs.org/) frontend web framework
 * [three.js](https://threejs.org/) library for 3D web content
 * [Blender](https://www.blender.org/) 3D creation suite
+* [PostgreSQL](https://www.postgresql.org/) relational database
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
