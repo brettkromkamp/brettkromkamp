@@ -10,7 +10,7 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/) and semantic modelling in combination with WebXR applications.
 
-My preferred technology stack includes:
+Technologies I enjoy working with, include:
 
 * [PostgreSQL](https://www.postgresql.org/) relational database
 * [Python](https://www.python.org/) programming language
