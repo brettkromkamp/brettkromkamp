@@ -23,8 +23,8 @@ Technologies I enjoy working with, include:
 
 ### Current Focus 
 
-I'm currently learning [Svelte.js](https://svelte.dev/) and working on the "Story Teller" project, an interactive 3D storytelling web application based on [semantic events](https://brettkromkamp.com/posts/narrative-events/).
-
 ![Brett Kromkamp - GitHub banner](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/lake-cabin.png)
+
+I'm currently learning [Svelte.js](https://svelte.dev/) and working on the "Story Teller" project, an interactive 3D storytelling web application based on [semantic events](https://brettkromkamp.com/posts/narrative-events/).
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
