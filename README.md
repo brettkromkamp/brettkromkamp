@@ -19,5 +19,12 @@ Technologies I enjoy working with, include:
 * [three.js](https://threejs.org/) library for 3D web content
 * [Blender](https://www.blender.org/) 3D creation suite
 * [PostgreSQL](https://www.postgresql.org/) relational database
+* [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) provide a way to describe complex relationships between abstract concepts and real-world (information) resources
+
+### Current Focus 
+
+I'm currently learning [Svelte.js](https://svelte.dev/) and working on the "Story Teller" project, an interactive 3D storytelling web application based on [semantic events](https://brettkromkamp.com/posts/narrative-events/).
+
+![Brett Kromkamp - GitHub banner](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/lake-cabin.png)
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
