@@ -2,13 +2,11 @@
 
 ## Brett Kromkamp's GitHub Profile
 
-You’ve reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Welcome!
-
-I am a Python and JavaScript developer in addition to being a semantic technologies and 3D/[WebXR](https://immersiveweb.dev/) enthusiast.
+You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. I am a software developer and technologist providing solutions based on semantic technologies and [knowledge graphs](https://en.wikipedia.org/wiki/Knowledge_graph).
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a couple of other open source projects.
 
-Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/) and semantic modelling in combination with WebXR applications.
+Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/) and semantic modelling.
 
 Technologies I enjoy working with, include:
 
@@ -16,8 +14,6 @@ Technologies I enjoy working with, include:
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) web framework
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) programming language
 * [Vue.js](https://vuejs.org/) frontend web framework
-* [three.js](https://threejs.org/) library for 3D web content
-* [Blender](https://www.blender.org/) 3D creation suite
 * [PostgreSQL](https://www.postgresql.org/) relational database
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) provide a way to describe complex relationships between abstract concepts and real-world (information) resources
 
