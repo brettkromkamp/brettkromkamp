@@ -6,7 +6,7 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. I 
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a couple of other open source projects.
 
-Expect many of my projects and accompanying repositories to be related to (personal and collaborative) [knowledge management](https://contextualise.dev/) and semantic modelling.
+Expect many of my projects and accompanying repositories to be related to the intersection of knowledge management and content management using topic maps-based &mdash;semantic&mdash; technologies.
 
 Technologies I enjoy working with, include:
 
@@ -21,6 +21,6 @@ Technologies I enjoy working with, include:
 
 ![Brett Kromkamp - GitHub banner](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/lake-cabin.png)
 
-I'm currently learning [Svelte.js](https://svelte.dev/) while working on my *Storyteller* project, an interactive 3D storytelling web application based on [semantic events](https://brettkromkamp.com/posts/narrative-events/).
+I'm currently learning [Svelte.js](https://svelte.dev/) while working on the *Storyteller* project, an interactive 3D storytelling web application based on [semantic events](https://brettkromkamp.com/posts/narrative-events/).
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
