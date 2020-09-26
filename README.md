@@ -4,7 +4,7 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. I am a software developer and technologist providing solutions based on semantic technologies and [knowledge graphs](https://en.wikipedia.org/wiki/Knowledge_graph).
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [EventDB](https://github.com/brettkromkamp/event-db) and a couple of other open source projects.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [StoryDB](https://github.com/brettkromkamp/story-db) and a couple of other open source projects.
 
 Expect many of my projects and accompanying repositories to be related to the intersection of knowledge management and content management using topic maps-based &mdash;semantic&mdash; technologies.
 
