@@ -16,6 +16,8 @@ Technologies I enjoy working with, include:
 * [Vue.js](https://vuejs.org/) frontend web framework
 * [PostgreSQL](https://www.postgresql.org/) relational database
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) provide a way to describe complex relationships between abstract concepts and real-world (information) resources
+* [Blender](https://www.blender.org/) 3D creation suite
+* [three.js](https://threejs.org/) library for 3D web content
 
 ### Current Focus - September 2020
 
