@@ -21,6 +21,6 @@ Technologies I enjoy working with, include:
 
 ### Current Focus - October 2020
 
-I'm currently extending [Contextualise](https://contextualise.dev/) with the ability to seamlessly switch between two (dramatically) different user experiences: a [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) &mdash;presentation-like&mdash; user interface on one hand versus a full-fledged knowledge graph &mdash;semantic modelling&mdash; user interface on the other hand. 
+I'm currently extending [Contextualise](https://contextualise.dev/) with the ability to seamlessly switch between two opposing user experiences: a [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) &mdash;presentation-like&mdash; user interface on one hand versus a full-fledged knowledge graph &mdash;semantic modelling&mdash; user interface on the other hand. 
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
