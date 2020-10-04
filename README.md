@@ -21,6 +21,6 @@ Technologies I enjoy working with, include:
 
 ### Current Focus - October 2020
 
-I'm currently extending [Contextualise](https://contextualise.dev/) with a presentation-like user experience based on the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature. 
+I'm currently extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](https://revealjs.com/)-based presentation mode to supplement the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature. 
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
