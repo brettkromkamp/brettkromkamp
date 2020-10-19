@@ -12,6 +12,7 @@ Technologies I enjoy working with, include:
 
 * [Python](https://www.python.org/) programming language
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) web framework
+* [Django](https://www.djangoproject.com/) web framework
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) programming language
 * [Vue.js](https://vuejs.org/) frontend web framework
 * [PostgreSQL](https://www.postgresql.org/) relational database
