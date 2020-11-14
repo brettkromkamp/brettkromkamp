@@ -22,9 +22,7 @@ Technologies I enjoy working with, include:
 
 ### Current Focus - November 2020
 
-* Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](https://revealjs.com/)-based presentation mode to supplement the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature
-* Developing an application that allows a user to navigate between a collection of narrative events. Each event has an accompanying 3D environment with participants and items that can be interacted with. Interactions include (but, are not limited to) displaying more information about the selected object and superimposing the selected object over the user's view of the real world; that is, Augmented Reality (AR). A demo with the initial prototype of the *Storyteller* application is available here: [Space Colony](https://brettkromkamp.com/space-colony/index.html?story-identifier=11&event-identifier=industrial-sector).
-
-![Storyteller prototype](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/space-colony.png)
+* Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](https://revealjs.com/)-based presentation mode to supplement the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature.
+* Developing an application that allows a user to navigate between a collection of [narrative events](https://brettkromkamp.com/posts/narrative-events/). Each event has an accompanying 3D environment with participants and items that can be interacted with. Interactions include (but, are not limited to) displaying more information about the selected object and superimposing the selected object over the user's view of the real world (that is, AR). A demo with the initial prototype of the *Storyteller* application is available here: [Space Colony](https://brettkromkamp.com/space-colony/index.html?story-identifier=11&event-identifier=industrial-sector).
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
