@@ -8,6 +8,8 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Expect many of my projects to be related to the development of engaging interactive content types using a combination of topic maps-based &mdash;semantic&mdash; technologies together with web-based 3D ([WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)) technologies.
 
+![Brett Kromkamp's Interests](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/interests.png)
+
 Technologies I enjoy working with, include:
 
 * [Python](https://www.python.org/) programming language
