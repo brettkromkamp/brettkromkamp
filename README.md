@@ -6,7 +6,7 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [StoryDB](https://github.com/brettkromkamp/story-db) and a couple of other open source projects.
 
-Expect many of my projects to be related to the development of engaging interactive content types using topic maps-based &mdash;semantic&mdash; technologies in combination with web-based 3D ([WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)) technologies.
+Expect many of my projects to be related to the development of engaging interactive content types using a combination of topic maps-based &mdash;semantic&mdash; technologies together with web-based 3D ([WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)) technologies.
 
 Technologies I enjoy working with, include:
 
@@ -20,7 +20,7 @@ Technologies I enjoy working with, include:
 * [Blender](https://www.blender.org/) 3D creation suite
 * [three.js](https://threejs.org/) library for 3D web content
 
-### Current Focus: Contextualise Experiments - October to December of 2020
+### Current Focus: Contextualise Experiments &mdash; October to December of 2020
 
 #### Reveal.js-Based Knowledge Paths
 
