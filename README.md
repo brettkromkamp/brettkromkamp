@@ -6,7 +6,7 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [StoryDB](https://github.com/brettkromkamp/story-db) and a couple of other open source projects.
 
-Expect many of my projects and accompanying repositories to be related to the intersection of [knowledge graphs](https://en.wikipedia.org/wiki/Knowledge_graph), content management and [information architecture](https://blog.adobe.com/en/publish/2017/11/20/a-beginners-guide-to-information-architecture-for-ux-designers.html#gs.hq0on5) using topic maps-based &mdash;semantic&mdash; technologies.
+Expect many of my projects to be related to the development of engaging interactive content types using topic maps-based &mdash;semantic&mdash; technologies in combination with web-based 3D technologies.
 
 Technologies I enjoy working with, include:
 
