@@ -32,6 +32,6 @@ Developing a web application that allows a user to navigate between a collection
 
 ![Storyteller Scene in Blender](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/storyteller-app-blender.png)
 
-A demo with the initial prototype of the *Storyteller* application is available here: [Space Colony](https://brettkromkamp.com/space-colony/index.html?story-identifier=11&event-identifier=industrial-sector) (**take note**: both the application and the accompanying 3D models have not been optimized yet; so performance on anything other than a reasonably specced desktop machine will be sub-optimal). Storyteller narratives are Contextualise topic maps.
+A demo with the initial prototype of the *Storyteller* application is available here: [Space Colony](https://brettkromkamp.com/space-colony/index.html?story-identifier=11&event-identifier=industrial-sector) (**take note**: both the application and the accompanying 3D models have not been optimized yet; so performance on anything other than a reasonably specced desktop machine will be sub-optimal). Storyteller narratives are [Contextualise](https://contextualise.dev/) topic maps.
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
