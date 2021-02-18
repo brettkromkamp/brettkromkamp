@@ -19,16 +19,20 @@ Technologies I enjoy working with, include:
 * [Blender](https://www.blender.org/) 3D creation suite
 * [three.js](https://threejs.org/) library for 3D web content
 
-### Current Focus: Contextualise Experiments &mdash; October to December of 2020
+### Current Focus: Contextualise Experiments &mdash; Spring 2021
 
-#### Reveal.js-Based Knowledge Paths
+#### Mixing Art and Code to Build Engaging Content Experiences
 
-Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](https://revealjs.com/)-based presentation mode to supplement the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature.
+Development of web content models, content concepts, content delivery methods, content creation processes and tools: *mix art and code to build highly engaging and unique content experiences*.
 
 #### Storytelling With Interactive Visualisation of Semantic Events
 
 Developing a web application &mdash;for storytelling purposes&mdash; that allows a user to navigate between a collection of [narrative events](https://brettkromkamp.com/posts/narrative-events/). Each event has an accompanying 3D environment with participants and items that can be interacted with. Interactions include (but, are not limited to) displaying more information about the selected object and superimposing the selected object over the user's view of the real world (that is, augmented reality). Narratives are [Contextualise](https://contextualise.dev/) topic maps.
 
 ![Storyteller Scene in Blender](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/storyteller-app-blender.png)
+
+#### Reveal.js-Based Knowledge Paths
+
+Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](https://revealjs.com/)-based presentation mode to supplement the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature.
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
