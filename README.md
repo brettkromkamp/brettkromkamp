@@ -17,6 +17,7 @@ Technologies I enjoy working with, include:
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) provide a way to describe complex relationships between abstract concepts and real-world (information) resources
 * [Blender](https://www.blender.org/) 3D creation suite
 * [three.js](https://threejs.org/) library for 3D web content
+* [Python Arcade Library](https://arcade.academy/) for 2D game development
 
 ### Current Focus: Contextualise Experiments &mdash; Spring 2021
 
