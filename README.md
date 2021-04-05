@@ -13,7 +13,6 @@ Technologies I enjoy working with, include:
 * [Python](https://www.python.org/) programming language
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) web framework
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) programming language
-* [Node.js](https://nodejs.org/en/) cross-platform JavaScript runtime environment
 * [PostgreSQL](https://www.postgresql.org/) relational database
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) provide a way to describe complex relationships between abstract concepts and real-world (information) resources
 * [Blender](https://www.blender.org/) 3D creation suite
