@@ -25,7 +25,7 @@ Technologies I enjoy working with, include:
 
 Developing a Python-based course for people that want to have a great **learning experience** while learning how to program. The course will focus on providing the learner with all of the necessary programming knowledge and skills to build a small &mdash;but, fully functional and attractive&mdash; 2D game (using [pygame](https://github.com/pygame/) and related libraries).
 
-![Discover Python! game level](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/rocket-launch.png)
+![Discover Python! game level](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/shuttle-launch.png)
 
 #### Mixing Art and Code to Build Engaging Content Experiences
 
