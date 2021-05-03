@@ -1,5 +1,3 @@
-![Brett Kromkamp - GitHub banner](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/banner.png)
-
 ## Brett Kromkamp's GitHub Profile
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
