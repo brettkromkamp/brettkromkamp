@@ -15,7 +15,6 @@ Technologies I enjoy working with, include:
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) provide a way to describe complex relationships between abstract concepts and real-world (information) resources
 * [Blender](https://www.blender.org/) 3D creation suite
 * [three.js](https://threejs.org/) library for 3D web content
-* [Godot](https://godotengine.org/) game engine for 2D game development
 * [Phaser](https://phaser.io/) game framework for web-based 2D game development
 
 ### Current Projects: Contextualise Experiments
