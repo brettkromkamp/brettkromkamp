@@ -1,3 +1,6 @@
+
+![Brett Kromkamp](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/banner.png)
+
 ## Brett Kromkamp's GitHub Profile
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
@@ -22,8 +25,6 @@ Technologies I enjoy working with, include:
 #### Building the Discover Programming! Course (Estimated Release Date: 4th Quarter of 2021)
 
 Developing a course for people that want to have a great **learning experience** while learning how to program. The course will focus on providing the learner with all of the necessary programming knowledge and skills to build several small &mdash;but, fully functional and attractive&mdash; 2D games.
-
-![Discover Programming! course](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/discover-programming-course.png)
 
 #### Mixing Art and Code to Build Engaging Content Experiences
 
