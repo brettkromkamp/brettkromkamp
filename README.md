@@ -7,7 +7,7 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [StoryDB](https://github.com/brettkromkamp/story-db) and a couple of other open source projects.
 
-Expect many of my projects to be related to the development of engaging interactive content using a combination of topic maps-based &mdash;semantic&mdash; technologies together with web-based 3D and [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) technologies.
+Expect many of my projects to be related to the development of engaging interactive web experiences using a combination of topic maps-based &mdash;semantic&mdash; technologies together with web-based 3D and [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) technologies.
 
 Technologies I enjoy working with, include:
 
@@ -22,11 +22,7 @@ Technologies I enjoy working with, include:
 
 ### Current Projects: Contextualise Experiments
 
-#### Building the Discover Programming! Course (Estimated Release Date: 4th Quarter of 2021)
-
-Developing a course for people that want to have a great **learning experience** while learning how to program. The course will focus on providing the learner with all of the necessary programming knowledge and skills to build several small &mdash;but, fully functional and attractive&mdash; 2D games.
-
-#### Mixing Art and Code to Build Engaging Content Experiences
+#### Mixing Art and Code to Build Engaging Web Experiences
 
 Development of web content models, concepts, creation processes and tools: mix art and code to build highly [engaging and unique content experiences](https://brettkromkamp.com/posts/engaging-web-experiences/).
 
