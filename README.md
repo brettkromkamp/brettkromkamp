@@ -20,6 +20,8 @@ Technologies I enjoy working with, include:
 * [three.js](https://threejs.org/) library for 3D web content
 * [Phaser](https://phaser.io/) game framework for web-based 2D game development
 
+[Follow me on Twitter](https://twitter.com/brettkromkamp).
+
 ### Current Projects: Contextualise Experiments
 
 #### Mixing Art and Code to Build Engaging Web Experiences
