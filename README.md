@@ -26,7 +26,7 @@ Technologies I enjoy working with, include:
 
 #### Mixing Art and Code to Build Engaging Web Experiences
 
-Development of web content models, concepts, creation processes and tools: mix art and code to build highly [engaging and unique web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/).
+Development of web content models, concepts, creation processes and tools: mix art and code to build interactive, [engaging web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/).
 
 #### Reveal.js-Based Knowledge Paths
 
