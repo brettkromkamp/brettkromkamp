@@ -7,17 +7,18 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [StoryDB](https://github.com/brettkromkamp/story-db) and a couple of other open source projects.
 
-Expect many of my projects to be related to the development of interactive web experiences using a combination of topic maps-based &mdash;semantic&mdash; technologies together with web-based 3D and [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) technologies.
+Expect many of my projects to be related to the development of interactive web experiences using semantic technologies combined with web-based 3D and [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) technologies.
 
 Technologies I enjoy working with, include:
 
 * [Python](https://www.python.org/) programming language
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) web framework
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) programming language
-* [PostgreSQL](https://www.postgresql.org/) relational database
-* [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) provide a way to describe complex relationships between abstract concepts and real-world (information) resources
+* [Kotlin](https://kotlinlang.org/) modern JVM-based programming language
 * [Blender](https://www.blender.org/) 3D creation suite
 * [three.js](https://threejs.org/) library for 3D web content
+* [Topic map](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
+* [Resource Description Framework (RDF)](https://www.w3.org/TR/rdf11-primer/) framework for representing information in the web
+* [RDF4J](https://rdf4j.org/) Java framework for processing and handling RDF data
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
