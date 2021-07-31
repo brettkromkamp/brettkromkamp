@@ -13,7 +13,6 @@ Technologies I enjoy working with, include:
 
 * [Python](https://www.python.org/) programming language
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) web framework
-* [Kotlin](https://kotlinlang.org/) modern JVM-based programming language
 * [Blender](https://www.blender.org/) 3D creation suite
 * [three.js](https://threejs.org/) library for 3D web content
 * [Topic map](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
@@ -22,7 +21,16 @@ Technologies I enjoy working with, include:
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
-### Current Projects: Contextualise Experiments
+### Current Project
+
+#### Assembling an RDF Stack
+
+* [RDF4J](https://rdf4j.org/) (RDF, SPARQL, OWL, SHACL)
+* [Grails](https://grails.org/) framework
+* [Svelte.js](https://svelte.dev/)
+* [Ontodia](https://github.com/metaphacts/ontodia) graph visualization library
+
+### Contextualise Experiments
 
 #### Mixing Art and Code to Build Engaging Web Experiences
 
