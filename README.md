@@ -21,7 +21,7 @@ Technologies I enjoy working with, include:
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
-### Current Project [Last update: July 2021]
+### Current Project
 
 #### Wiring-up an RDF/Web Stack
 
