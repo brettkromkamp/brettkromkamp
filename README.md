@@ -23,7 +23,7 @@ Technologies I enjoy working with, include:
 
 ### Current Project [Last update: July 2021]
 
-#### Wiring-up a RDF/Web Stack
+#### Wiring-up an RDF/Web Stack
 
 * [RDF4J](https://rdf4j.org/) (RDF, SPARQL, OWL, SHACL)
 * [Grails](https://grails.org/) framework
