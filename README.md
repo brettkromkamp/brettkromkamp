@@ -21,9 +21,9 @@ Technologies I enjoy working with, include:
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
-### Current Project
+### Current Project [Last update: July 2021]
 
-#### Assembling an RDF Stack
+#### Wiring-up a RDF/Web Stack
 
 * [RDF4J](https://rdf4j.org/) (RDF, SPARQL, OWL, SHACL)
 * [Grails](https://grails.org/) framework
