@@ -26,7 +26,7 @@ Technologies I enjoy working with, include:
 #### Wiring-up an RDF/Web Stack
 
 * [RDF4J](https://rdf4j.org/) (RDF, SPARQL, OWL, SHACL)
-* [Grails](https://grails.org/) framework
+* [Spring Boot](https://spring.io/projects/spring-boot) framework
 * [Svelte.js](https://svelte.dev/)
 * [Ontodia](https://github.com/metaphacts/ontodia) graph visualization library
 
