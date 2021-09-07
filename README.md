@@ -22,7 +22,12 @@ Technologies I enjoy working with, include:
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
-### Current Project
+### Current Projects
+
+#### Researching Property Graph Technologies
+
+* [Apache TinkerPop](https://tinkerpop.apache.org/) graph computing framework
+* [Gremlin](https://tinkerpop.apache.org/gremlin.html) graph traversal machine and language 
 
 #### Wiring-up an RDF/Web Stack
 
