@@ -24,6 +24,10 @@ Technologies I enjoy working with, include:
 
 ### Current Projects
 
+### WebGL
+
+* Building three.js-based WebGL interactive experiences
+
 #### Researching Property Graph Technologies
 
 * [Apache TinkerPop](https://tinkerpop.apache.org/) graph computing framework
