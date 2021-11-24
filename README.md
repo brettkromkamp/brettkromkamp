@@ -21,29 +21,12 @@ Technologies I enjoy working with, include:
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
-### Current Projects
-
-#### WebGL
-
-* Building three.js-based WebGL interactive experiences
-
-#### Researching Property Graph Technologies
-
-* [Apache TinkerPop](https://tinkerpop.apache.org/) graph computing framework
-* [Gremlin](https://tinkerpop.apache.org/gremlin.html) graph traversal machine and language 
-
-#### Wiring-up an RDF/Web Stack
-
-* [RDF4J](https://rdf4j.org/) (RDF, SPARQL and SHACL)
-* [Spring Boot](https://spring.io/projects/spring-boot) framework
-* [Svelte.js](https://svelte.dev/)
-* [Ontodia](https://github.com/metaphacts/ontodia) graph visualization library
-
 ### Contextualise Experiments
 
 #### Mixing Art and Code to Build Engaging Web Experiences
 
-Development of web content models, concepts, creation processes and tools: mix art and code to build interactive, [engaging web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/).
+* Development of web content models, concepts, creation processes and tools: mix art and code to build interactive, [engaging web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/)
+* Building three.js-based WebGL interactive experiences
 
 #### Reveal.js-Based Knowledge Paths
 
