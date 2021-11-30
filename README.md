@@ -20,6 +20,12 @@ Technologies I enjoy working with, include:
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
+### Brave Robot Games
+
+#### Isometric Games
+
+* "Lost No More" turn-based strategy game: animations and main mechanics
+
 ### Contextualise Experiments
 
 #### Mixing Art and Code to Build Engaging Web Experiences
