@@ -16,15 +16,8 @@ Technologies I enjoy working with, include:
 * [Blender](https://www.blender.org/) 3D creation suite
 * [three.js](https://threejs.org/) library for 3D web content (JavaScript)
 * [Topic map](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
-* [Godot](https://godotengine.org/) game engine
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
-
-### Brave Robot Games
-
-#### Isometric Games
-
-* "Lost No More" turn-based strategy game: animations and main mechanics
 
 ### Contextualise Experiments
 
