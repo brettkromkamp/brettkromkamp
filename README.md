@@ -7,7 +7,7 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [StoryDB](https://github.com/brettkromkamp/story-db) and a couple of other open source projects.
 
-Expect many of my projects to be related to the development of interactive web experiences using semantic technologies combined with web-based 3D and [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) technologies.
+Expect many of my projects to be related to the development of interactive &mdash;narrative&mdash; web experiences using semantic technologies combined with web-based 3D and [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) technologies.
 
 Technologies I enjoy working with, include:
 
