@@ -7,28 +7,28 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [StoryDB](https://github.com/brettkromkamp/story-db) and a couple of other open source projects.
 
-Expect many of my projects to be related to the development of interactive &mdash;narrative&mdash; web experiences using semantic technologies combined with web-based 3D and [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) technologies.
+Expect many of my projects to be related to the development of [tools for thought](https://numinous.productions/ttft/) and interactive &mdash;narrative&mdash; web experiences using semantic technologies combined with web-based 3D and [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) technologies.
 
 Technologies I enjoy working with, include:
 
 * [Python](https://www.python.org/) programming language
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) web framework (Python)
+* [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
 * [Blender](https://www.blender.org/) 3D creation suite
 * [three.js](https://threejs.org/) library for 3D web content (JavaScript)
-* [Topic map](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
-* [Godot](https://godotengine.org/) game engine
+* [Clojure](https://clojure.org/) programming language
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
 ### Contextualise Experiments
 
-#### Mixing Art and Code to Build Engaging Web Experiences
-
-* Development of web content models, concepts, creation processes and tools: mix art and code to build interactive, [engaging web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/)
-
 #### Reveal.js-Based Knowledge Paths
 
 Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](https://revealjs.com/)-based presentation mode to supplement the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature.
+
+#### Mixing Art and Code to Build Engaging Web Experiences
+
+* Development of web content models, concepts, creation processes and tools: mix art and code to build interactive, [engaging web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/)
 
 #### Storytelling With Interactive Visualisation of Semantic Events
 
