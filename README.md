@@ -1,5 +1,5 @@
 
-![Brett Kromkamp](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/banner-alt.png)
+![Brett Kromkamp](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/banner2.png)
 
 ## Brett Kromkamp's GitHub Profile
 
