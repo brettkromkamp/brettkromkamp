@@ -11,7 +11,6 @@ Expect many of my projects to be related to the development of [tools for though
 
 Technologies I enjoy working with, include:
 
-* [Godot](https://godotengine.org/) game engine
 * [Python](https://www.python.org/) programming language
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
 * [Blender](https://www.blender.org/) 3D creation suite
