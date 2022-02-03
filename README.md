@@ -1,11 +1,8 @@
-
-![Brett Kromkamp](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/banner2.png)
-
 ## Brett Kromkamp's GitHub Profile
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db), [StoryDB](https://github.com/brettkromkamp/story-db) and a couple of other open source projects. Expect many of my projects to be related to the development of [tools for thought](https://numinous.productions/ttft/), interactive web experiences and game development.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to the development of [tools for thought](https://numinous.productions/ttft/), interactive web experiences and game development.
 
 Technologies I enjoy working with, include:
 
@@ -13,7 +10,6 @@ Technologies I enjoy working with, include:
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
 * [Blender](https://www.blender.org/) 3D creation suite
 * [three.js](https://threejs.org/) library for 3D web content (JavaScript)
-* [Godot](https://godotengine.org/) game engine
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
