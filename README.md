@@ -2,7 +2,7 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to the development of [tools for thought](https://numinous.productions/ttft/), interactive web experiences and game development.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to the development of knowledge management tools, interactive web experiences and game development.
 
 Technologies I enjoy working with, include:
 
