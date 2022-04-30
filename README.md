@@ -2,9 +2,9 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to the development of knowledge management tools, interactive web experiences and game development.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to the development of web applications at the intersection of knowledge management, interactive storytelling and 3D using Python, JavaScript (three.js) and Blender.
 
-Technologies I enjoy working with, include:
+Core technologies I work with, include:
 
 * [Python](https://www.python.org/) programming language
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
