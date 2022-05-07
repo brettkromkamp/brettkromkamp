@@ -2,7 +2,7 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to building educational tools using semantic technologies and web-based 3D using Python, JavaScript (three.js) and Blender.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to building educational tools using semantic technologies combined with web-based 3D using Python, JavaScript and Blender.
 
 Core technologies I work with, include:
 
