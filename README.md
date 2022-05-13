@@ -6,10 +6,10 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Core technologies I work with, include:
 
-* [Python](https://www.python.org/) programming language
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
-* [Blender](https://www.blender.org/) 3D creation suite
+* [Python](https://www.python.org/) programming language
 * [three.js](https://threejs.org/) library for 3D web content (JavaScript)
+* [Blender](https://www.blender.org/) 3D creation suite
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
