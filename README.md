@@ -8,7 +8,7 @@ Core technologies I work with, include:
 
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
 * [Python](https://www.python.org/) programming language
-* [three.js](https://threejs.org/) library for 3D web content (JavaScript)
+* [three.js](https://threejs.org/) (JavaScript) library for 3D web content
 * [Blender](https://www.blender.org/) 3D creation suite
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
