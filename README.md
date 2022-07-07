@@ -14,7 +14,7 @@ Core technologies I work with, include:
 
 ### Contextualise Experiments
 
-#### Combining RDF and Topic Maps
+#### Combining the Resource Description Framework (RDF) with Topic Maps
 
 Combining the [RDF data model](https://docs.stardog.com/tutorials/rdf-graph-data-model) with [Contextualise](https://contextualise.dev/), a topic maps-based content management application. 
 
