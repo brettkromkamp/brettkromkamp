@@ -14,6 +14,10 @@ Core technologies I work with, include:
 
 ### Contextualise Experiments
 
+#### Combining RDF and Topic Maps
+
+Combining the RDF data model with Contextualise, a topic maps-based content management application. 
+
 #### Reveal.js-Based Knowledge Paths
 
 Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](https://revealjs.com/)-based presentation mode to supplement the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature.
