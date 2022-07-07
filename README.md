@@ -2,7 +2,7 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to building educational tools with semantic technologies and web-based 3D.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to the combination of linked data and knowledge graph-based applications or web-based 3D.
 
 Core technologies I work with, include:
 
@@ -10,6 +10,7 @@ Core technologies I work with, include:
 * [Python](https://www.python.org/) programming language
 * [three.js](https://threejs.org/) (JavaScript) library for 3D web content
 * [Blender](https://www.blender.org/) 3D creation suite
+* The semantic web ([RDF](https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624/)/[SPARQL](https://www.w3.org/TR/sparql11-overview/)) stack
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
