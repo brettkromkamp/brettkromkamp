@@ -24,7 +24,7 @@ Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](h
 
 #### Mixing Art and Code to Build Engaging Web Experiences
 
-* Development of web content models, concepts, creation processes and tools: mix art and code to build interactive, [engaging web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/)
+Development of web content models, concepts, creation processes and tools: mix art and code to build interactive, [engaging web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/)
 
 #### Storytelling With Interactive Visualisation of Semantic Events
 
