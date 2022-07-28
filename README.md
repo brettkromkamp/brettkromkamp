@@ -2,7 +2,7 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile.
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. Expect many of my projects to be related to the combination of linked data and knowledge graph-based applications.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python projects on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to the combination of linked data and knowledge graph-based applications.
 
 Core technologies I work with, include:
 
