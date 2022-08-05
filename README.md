@@ -6,7 +6,7 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Core technologies I work with, include:
 
-* The semantic web ([RDF](https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624/)/[SPARQL](https://www.w3.org/TR/sparql11-overview/)/[OWL](https://www.w3.org/OWL/)) stack
+* [Apache TinkerPop](https://tinkerpop.apache.org/) and related technologies including Gremlin and [JanusGraph](https://janusgraph.org/)
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
 * [Python](https://www.python.org/) programming language
 
