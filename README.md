@@ -6,7 +6,7 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Core technologies I work with, include:
 
-* [Apache TinkerPop](https://tinkerpop.apache.org/) and related technologies including Gremlin and [JanusGraph](https://janusgraph.org/)
+* [Apache TinkerPop](https://tinkerpop.apache.org/) and related graph technologies including Gremlin, [JanusGraph](https://janusgraph.org/) and [Apache Cassandra](https://cassandra.apache.org/_/index.html)
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
 * [Python](https://www.python.org/) programming language
 
