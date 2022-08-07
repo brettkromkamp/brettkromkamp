@@ -7,6 +7,7 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 Core technologies I work with, include:
 
 * [Apache TinkerPop](https://tinkerpop.apache.org/) and related graph technologies including Gremlin, [JanusGraph](https://janusgraph.org/) and [Apache Cassandra](https://cassandra.apache.org/_/index.html)
+* [Resources Description Framework (RDF)](https://www.w3.org/TR/rdf-primer/) and related semantic web technologies including [SPARQL](https://www.w3.org/TR/sparql11-overview/), [OWL](https://www.w3.org/TR/owl2-primer/) and [SKOS](https://www.w3.org/TR/skos-primer/)
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
 * [Python](https://www.python.org/) programming language
 
