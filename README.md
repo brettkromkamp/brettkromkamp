@@ -17,7 +17,7 @@ Core technologies I work with, include:
 
 #### Knowledge Graph-based Content Management
 
-Combining the [RDF data model](https://docs.stardog.com/tutorials/rdf-graph-data-model) with [Contextualise](https://contextualise.dev/), a topic maps-based knowledge management application. 
+Combining LPG-based knowledge graphs with [Contextualise](https://contextualise.dev/), a topic maps-based content and knowledge management system. 
 
 #### Reveal.js-Based Knowledge Paths
 
