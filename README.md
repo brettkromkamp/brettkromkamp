@@ -17,7 +17,7 @@ Core technologies I work with, include:
 
 #### Knowledge Graph-based Content Management
 
-Combining LPG-based knowledge graphs with [Contextualise](https://contextualise.dev/), a topic maps-based content and knowledge management system. 
+Combining labeled property graphs with [Contextualise](https://contextualise.dev/), a topic maps-based content and knowledge management system. 
 
 #### Reveal.js-Based Knowledge Paths
 
