@@ -12,6 +12,7 @@ Core technologies I work with, include:
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
 * [Blender](https://www.blender.org/) 3D creation suite
+* [Three.js](https://threejs.org/) JavaScript 3D library
 
 [Follow me on Twitter](https://twitter.com/brettkromkamp).
 
