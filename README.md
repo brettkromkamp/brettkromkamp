@@ -29,7 +29,9 @@ Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](h
 
 Development of web content models, concepts, creation processes and tools: mix art and code to build interactive, [engaging web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/)
 
-#### Storytelling With Interactive Visualisation of Semantic Events (The Story Technologies Project)
+### Story Technologies
+
+#### Storytelling With Interactive Visualisation of Semantic Events
 
 Developing a web application &mdash;for storytelling purposes&mdash; that allows a user to navigate between a collection of [narrative events](https://brettkromkamp.com/posts/narrative-events/). Each event has an accompanying 3D environment with participants and items that can be interacted with. Interactions include (but, are not limited to) displaying more information about the selected object and superimposing the selected object over the user's view of the real world (that is, augmented reality). Narratives are [Contextualise](https://contextualise.dev/) topic maps.
 
