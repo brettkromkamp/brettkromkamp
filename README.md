@@ -13,8 +13,6 @@ Core technologies I work with, include:
 * [Blender](https://www.blender.org/) 3D creation suite
 * [Three.js](https://threejs.org/) JavaScript 3D library
 
-Let's chill over at (Indieweb.Social) [Mastodon](https://indieweb.social/invite/YsdGXU4f).
-
 ### Contextualise Experiments
 
 #### Knowledge Graph-based Content Management
