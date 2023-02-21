@@ -2,6 +2,8 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp).
 
+**I ask everyone to support the people of Ukraine who are being invaded by Russia**. [Donate now](https://supportukrainenow.org/).
+
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to the combination of __linked data and knowledge graph-based applications__.
 
 Core technologies I work with, include:
