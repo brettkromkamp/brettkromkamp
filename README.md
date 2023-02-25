@@ -14,6 +14,7 @@ Core technologies I work with, include:
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
 * [Blender](https://www.blender.org/) 3D creation suite
 * [Three.js](https://threejs.org/) JavaScript 3D library
+* [Angular](https://angular.io/) frontend web development framework
 
 ### Contextualise Experiments
 
