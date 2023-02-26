@@ -8,13 +8,12 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Core technologies I work with, include:
 
-* [Apache TinkerPop](https://tinkerpop.apache.org/) and related graph technologies including [Gremlin](https://tinkerpop.apache.org/gremlin.html), [JanusGraph](https://janusgraph.org/) and [Apache Cassandra](https://cassandra.apache.org/_/index.html)
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
-* [Blender](https://www.blender.org/) 3D creation suite
-* [Three.js](https://threejs.org/) JavaScript 3D library
 * [Angular](https://angular.io/) frontend web development framework
+* [Three.js](https://threejs.org/) JavaScript 3D library
+* [Blender](https://www.blender.org/) 3D creation suite
 
 ### Contextualise Experiments
 
