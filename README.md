@@ -12,9 +12,9 @@ Core technologies I work with, include:
 * [Python](https://www.python.org/) programming language
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
-* [Angular](https://angular.io/) frontend web development framework
 * [Three.js](https://threejs.org/) JavaScript 3D library
 * [Blender](https://www.blender.org/) 3D creation suite
+* [Godot](https://godotengine.org/) game engine
 
 ### Contextualise Experiments
 
