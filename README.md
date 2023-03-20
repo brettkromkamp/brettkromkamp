@@ -4,9 +4,9 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Fi
 
 **I ask everyone to support the people of Ukraine who are being invaded by Russia**. [Donate now](https://supportukrainenow.org/).
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to the combination of __linked data and knowledge graph-based applications__.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __knowledge graph-based applications__ based on the [topic maps](https://ontopia.net/topicmaps/materials/tao.html) model which allows you to describe complex relationships between abstract concepts and real-world (information) resources.
 
-Core technologies I work with, include:
+Technologies I enjoy working with, include:
 
 * [Python](https://www.python.org/) programming language
 * [Blender](https://www.blender.org/) 3D creation suite
@@ -14,7 +14,6 @@ Core technologies I work with, include:
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
 * [Three.js](https://threejs.org/) JavaScript 3D library
-* [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) standard to describe complex relationships between abstract concepts and real-world (information) resources
 
 ### Contextualise Experiments
 
