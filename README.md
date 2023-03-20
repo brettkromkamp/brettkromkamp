@@ -1,3 +1,5 @@
+![Brett Kromkamp - brettkromkamp.com](https://github.com/brettkromkamp/brettkromkamp/blob/master/resources/banner2.png)
+
 ## Brett Kromkamp's GitHub Profile
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp).
