@@ -8,7 +8,7 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Fi
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __knowledge graph-based applications__ based on the [topic maps](https://ontopia.net/topicmaps/materials/tao.html) model which allows you to describe complex relationships between abstract concepts and real-world (information) resources.
 
-In addition to the, above-mentioned, knowledge graph-based systems, I will be dedicating more and more of my time and effort to [game development](https://brettkromkamp.com/posts/game-development-revisited/)-related projects.
+In addition to knowledge graph-based systems, I will be dedicating more and more of my time and effort to [game development](https://brettkromkamp.com/posts/game-development-revisited/)-related projects.
 
 Technologies I enjoy working with, include:
 
