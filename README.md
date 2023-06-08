@@ -35,6 +35,6 @@ Development of web content models, concepts, creation processes and tools: mix a
 
 #### Storytelling With Interactive Visualisation of Semantic Events
 
-Developing a web application &mdash;for storytelling purposes&mdash; that allows a user to navigate between a collection of [narrative events](https://brettkromkamp.com/posts/narrative-events/). Each event has an accompanying 3D environment with participants and items that can be interacted with. Interactions include (but, are not limited to) displaying more information about the selected object and superimposing the selected object over the user's view of the real world (that is, augmented reality). Narratives are [Contextualise](https://contextualise.dev/) topic maps.
+Developing a three.js-based web application &mdash;for storytelling purposes&mdash; that allows a user to navigate between a collection of [narrative events](https://brettkromkamp.com/posts/narrative-events/). Each event has an accompanying 3D environment with participants and items that can be interacted with. Interactions include (but, are not limited to) displaying more information about the selected object and superimposing the selected object over the user's view of the real world (that is, augmented reality). Narratives are [Contextualise](https://contextualise.dev/) topic maps.
 
 > I will see you again, in the place where no shadows fall. &mdash; Ambassador Delenn, Babylon 5
