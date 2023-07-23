@@ -17,7 +17,7 @@ Technologies I enjoy working with, include:
 * [Three.js](https://threejs.org/) JavaScript 3D library
 * [React](https://react.dev/) library for user interfaces
 * [React-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) React renderer for three.js
-* [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) model describing knowledge structures and associating them with information resources
+* [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
 
 ### Contextualise Experiments
 
