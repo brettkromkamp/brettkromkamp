@@ -11,12 +11,12 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 Technologies I enjoy working with, include:
 
 * [Python](https://www.python.org/) programming language
+* [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
+* [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 * [Blender](https://www.blender.org/) 3D creation suite
+* [Three.js](https://threejs.org/) JavaScript 3D library
 * [React](https://react.dev/) library for user interfaces
 * [React-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) React renderer for three.js
-* [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
-* [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
-* [Three.js](https://threejs.org/) JavaScript 3D library
 
 ### Contextualise Experiments
 
