@@ -6,7 +6,7 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Fi
 
 **I ask everyone to support the people of Ukraine who are being invaded by Russia**. [Donate now](https://supportukrainenow.org/).
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __knowledge graph-based applications__ based on the [topic maps](https://ontopia.net/topicmaps/materials/tao.html) model which allows you to describe complex relationships between abstract concepts and real-world (information) resources.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __knowledge graph-based applications__ combined with WebXR technologies.
 
 Technologies I enjoy working with, include:
 
@@ -17,6 +17,7 @@ Technologies I enjoy working with, include:
 * [Three.js](https://threejs.org/) JavaScript 3D library
 * [React](https://react.dev/) library for user interfaces
 * [React-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) React renderer for three.js
+* [Topic maps]([topic maps](https://ontopia.net/topicmaps/materials/tao.html)) model describing knowledge structures and associating them with information resources
 
 ### Contextualise Experiments
 
