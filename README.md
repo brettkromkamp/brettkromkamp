@@ -2,7 +2,7 @@
 
 ## Brett Kromkamp's GitHub Profile
 
-You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp). My latest blog post is [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/) and I am currently learning how to build [immersive experiences](https://brettkromkamp.com/page/immersive-experiences/).
+You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp). My latest blog post is [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/) and I am currently learning how to build three.js-based [immersive experiences](https://brettkromkamp.com/page/immersive-experiences/).
 
 **I ask everyone to support the people of Ukraine who are being invaded by Russia**. [Donate now](https://supportukrainenow.org/).
 
