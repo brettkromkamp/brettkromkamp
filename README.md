@@ -2,9 +2,11 @@
 
 ## Brett Kromkamp's GitHub Profile
 
-You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp). My latest blog post is [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/) and I am currently building three.js-based [immersive experiences](https://brettkromkamp.com/page/immersive-experiences/).
+You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp).
 
 **I ask everyone to support the people of Ukraine who are being invaded by Russia**. [Donate now](https://supportukrainenow.org/).
+
+My latest blog post is [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/) and I am currently building three.js-based [immersive experiences](https://brettkromkamp.com/page/immersive-experiences/).
 
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __knowledge graph__-based applications combined with __WebXR__ technologies.
 
