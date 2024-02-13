@@ -8,7 +8,7 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Fi
 
 My latest blog post is [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/) and I am currently building three.js-based [immersive experiences](https://brettkromkamp.com/page/immersive-experiences/).
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __knowledge graph__-based applications combined with __WebXR__ technologies.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __knowledge graph__-based applications combined with procedural generation and storytelling.
 
 Technologies I enjoy working with, include:
 
@@ -18,6 +18,7 @@ Technologies I enjoy working with, include:
 * [Blender](https://www.blender.org/) 3D creation suite
 * [Three.js](https://threejs.org/) JavaScript 3D library
 * [Angular](https://angular.dev/overview) web framework
+* [Phaser 3](https://newdocs.phaser.io/docs/3.70.0) HTML5 game framework
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
 
 ### Contextualise Experiments
