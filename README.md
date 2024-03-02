@@ -18,7 +18,7 @@ Technologies I enjoy working with, include:
 * [Blender](https://www.blender.org/) 3D creation suite
 * [Three.js](https://threejs.org/) JavaScript 3D library
 * [Angular](https://angular.dev/overview) web framework
-* [Phaser 3](https://newdocs.phaser.io/docs/3.70.0) HTML5 game framework
+* [Pixi.js](https://pixijs.com) HTML5 creation engine
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
 
 ### Contextualise Experiments
