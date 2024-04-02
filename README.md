@@ -17,8 +17,7 @@ Technologies I enjoy working with, include:
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 * [Blender](https://www.blender.org/) 3D creation suite
 * [Three.js](https://threejs.org/) JavaScript 3D library
-* [Angular](https://angular.dev/overview) web framework
-* [Pixi.js](https://pixijs.com) HTML5 creation engine
+* [Flutter](https://flutter.dev/) building mobile, web, and desktop applications from a single codebase
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
 
 ### Contextualise Experiments
