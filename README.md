@@ -4,7 +4,7 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp).
 
-I am currently working on a new [Flutter](https://flutter.dev/)-based cross-platform note-taking and (personal) knowledge management application. This has been done [many times before](https://github.com/brettkromkamp/awesome-knowledge-management), but I have my own take on this space which is based on [topic maps](https://ontopia.net/topicmaps/materials/tao.html) in general and [Contextualise](https://contextualise.dev/) in particular.
+I am currently working on a [Flutter](https://flutter.dev/)-based cross-platform note-taking and (personal) knowledge management application. This has been done [many times before](https://github.com/brettkromkamp/awesome-knowledge-management), but I have my own take on this space which is based on [topic maps](https://ontopia.net/topicmaps/materials/tao.html) in general and [Contextualise](https://contextualise.dev/) in particular.
 
 **I ask everyone to support the people of Ukraine who are being invaded by Russia**. [Donate now](https://supportukrainenow.org/).
 
