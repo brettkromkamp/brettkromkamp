@@ -14,13 +14,13 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Technologies I enjoy working with, include:
 
-* [Python](https://www.python.org/) programming language
-* [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
-* [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
-* [Blender](https://www.blender.org/) 3D creation suite
-* [Three.js](https://threejs.org/) JavaScript 3D library
 * [Flutter](https://flutter.dev/) building mobile, web, and desktop applications from a single codebase
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
+* [Python](https://www.python.org/) programming language
+* [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
+* [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
+* [Blender](https://www.blender.org/) 3D creation suite
+* [Three.js](https://threejs.org/) JavaScript 3D library
 
 ### Contextualise Experiments
 
