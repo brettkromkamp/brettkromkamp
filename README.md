@@ -4,7 +4,7 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp).
 
-I am working on a [Angular]([https://flutter.dev/](https://angular.dev/overview))-based personal knowledge management application. Knowledge management is a [crowded space](https://github.com/brettkromkamp/awesome-knowledge-management). My contribution, however, to the plethora of approaches and applications in this space is based on [topic maps](https://ontopia.net/topicmaps/materials/tao.html) and [Contextualise](https://contextualise.dev/), respectively.
+I am working on a [Angular](https://angular.dev/overview))-based personal knowledge management application. Knowledge management is a [crowded space](https://github.com/brettkromkamp/awesome-knowledge-management). My contribution, however, to the plethora of approaches and applications in this space is based on [topic maps](https://ontopia.net/topicmaps/materials/tao.html) and [Contextualise](https://contextualise.dev/), respectively.
 
 **I ask everyone to support the people of Ukraine who are being invaded by Russia**. [Donate now](https://supportukrainenow.org/).
 
@@ -14,7 +14,7 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Technologies I enjoy working with, include:
 
-* [Angular]([https://flutter.dev/](https://angular.dev/overview)) web framework
+* [Angular](https://angular.dev/overview) web framework
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
 * [Python](https://www.python.org/) programming language
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
