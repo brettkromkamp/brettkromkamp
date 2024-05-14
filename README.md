@@ -4,7 +4,7 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp).
 
-I am working on the next version of [Contextualise](https://contextualise.dev/), a personal knowledge management application. Knowledge management is a [crowded space](https://github.com/brettkromkamp/awesome-knowledge-management). My contribution, however, to the plethora of approaches and applications in this space is based on [topic maps](https://ontopia.net/topicmaps/materials/tao.html) combined with vector search &mdash; which, in turn, is based on [vector embeddings](https://weaviate.io/blog/vector-embeddings-explained).
+I am working on the next version of [Contextualise](https://contextualise.dev/), a personal knowledge management application. Knowledge management is a [crowded space](https://github.com/brettkromkamp/awesome-knowledge-management). My contribution, however, to the plethora of approaches and applications in this space is based on [topic maps](https://ontopia.net/topicmaps/materials/tao.html) combined with vector search (which, in turn, is based on [vector embeddings](https://weaviate.io/blog/vector-embeddings-explained)).
 
 **I ask everyone to support the people of Ukraine who are being invaded by Russia**. [Donate now](https://supportukrainenow.org/).
 
