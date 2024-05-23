@@ -24,10 +24,6 @@ Technologies I enjoy working with, include:
 
 ### Contextualise Experiments
 
-#### Knowledge Graph-based Content Management
-
-Combining labeled property graphs with [Contextualise](https://contextualise.dev/), a topic maps-based content and knowledge management system. 
-
 #### Reveal.js-Based Knowledge Paths
 
 Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](https://revealjs.com/)-based presentation mode to supplement the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature.
