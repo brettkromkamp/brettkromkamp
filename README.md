@@ -17,10 +17,11 @@ Technologies I enjoy working with, include:
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
 * [Python](https://www.python.org/) programming language
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
-* [Angular](https://angular.dev/overview) web framework
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 * [Blender](https://www.blender.org/) 3D creation suite
 * [Three.js](https://threejs.org/) JavaScript 3D library
+* [Go](https://go.dev/) programming language
+* [Neovim](https://neovim.io/) text editor together with [LazyVim](https://www.lazyvim.org/)
 
 ### Contextualise Experiments
 
