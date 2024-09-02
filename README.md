@@ -10,7 +10,7 @@ I am working on the next version of [Contextualise](https://contextualise.dev/),
 
 My latest blog post is [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/).
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __knowledge graphs__, procedural generation and 2D and 3D visualization systems.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __knowledge graphs__, procedural generation and 2D/3D visualization systems.
 
 Technologies I enjoy working with, include:
 
