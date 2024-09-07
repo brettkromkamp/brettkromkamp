@@ -21,7 +21,6 @@ Technologies I enjoy working with, include:
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 * [Blender](https://www.blender.org/) 3D creation suite
 * [Three.js](https://threejs.org/) JavaScript 3D library
-* [Neovim](https://neovim.io/) text editor together with [LazyVim](https://www.lazyvim.org/)
 
 ### Contextualise Experiments
 
