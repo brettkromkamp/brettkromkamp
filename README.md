@@ -15,7 +15,7 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 Technologies I enjoy working with, include:
 
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
-* [Resources Description Framework (RDF)](https://docs.stardog.com/tutorials/rdf-graph-data-model) and related technologies, including SPARQL, OWL and SHACL
+* Labeled property graphs including (but, not limited to) [TinkerPop](https://tinkerpop.apache.org/) graph computing framework, [Gremlin](https://tinkerpop.apache.org/gremlin.html) query language and [JanusGraph](https://janusgraph.org/)
 * [Python](https://www.python.org/) programming language
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
