@@ -10,19 +10,18 @@ I am working on the next version of [Contextualise](https://contextualise.dev/),
 
 My latest blog post is [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/).
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __semantic technologies__, procedural generation and 2D/3D visualization systems.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __semantic technologies__, data pipelines and large language models.
 
 Technologies I enjoy working with, include:
 
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
-* Labeled property graphs including (but, not limited to) [TinkerPop](https://tinkerpop.apache.org/) graph computing framework, [Gremlin](https://tinkerpop.apache.org/gremlin.html) query language and [JanusGraph](https://janusgraph.org/)
+* Labeled property graphs including (but, not limited to) [Apache TinkerPop](https://tinkerpop.apache.org/) graph computing framework, [Gremlin](https://tinkerpop.apache.org/gremlin.html) query language and [JanusGraph](https://janusgraph.org/)
 * [Python](https://www.python.org/) programming language
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
-* [Blender](https://www.blender.org/) 3D creation suite
-* [Three.js](https://threejs.org/) JavaScript 3D library
+* Data analysis with data pipelines (often) using a combination of [Apache Airflow](https://airflow.apache.org/), [Apache Spark](https://spark.apache.org/) and [Apache Superset](https://superset.apache.org/))
 
-### Contextualise Experiments
+### Contextualise Projects
 
 #### Reveal.js-Based Knowledge Paths
 
