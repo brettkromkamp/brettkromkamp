@@ -19,9 +19,13 @@ Technologies I enjoy working with, include:
 * [Python](https://www.python.org/) programming language
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
-* Data analysis with data pipelines (often) using a combination of [Apache Airflow](https://airflow.apache.org/), [Apache Spark](https://spark.apache.org/) and [Apache Superset](https://superset.apache.org/))
+* Data analysis with data pipelines (often) using a combination of [Apache Airflow](https://airflow.apache.org/), [Apache Spark](https://spark.apache.org/) and [Apache Superset](https://superset.apache.org/)
 
 ### Contextualise Projects
+
+#### Contextualise.AI
+
+Contextualise.AI is a software platform that enables people to take whatever data is relevant to them and understand it more easily and thoroughly than ever before.
 
 #### Reveal.js-Based Knowledge Paths
 
