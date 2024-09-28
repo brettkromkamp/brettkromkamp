@@ -15,17 +15,17 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 Technologies I enjoy working with, include:
 
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
-* Labeled property graphs including (but, not limited to) [Apache TinkerPop](https://tinkerpop.apache.org/) graph computing framework, [Gremlin](https://tinkerpop.apache.org/gremlin.html) query language and [JanusGraph](https://janusgraph.org/)
+* Labeled property graphs including (but, not limited to) [Apache TinkerPop](https://tinkerpop.apache.org/) graph computing framework together with [Gremlin](https://tinkerpop.apache.org/gremlin.html) query language
+* Data analysis with data pipelines (often) using a combination of [Apache Airflow](https://airflow.apache.org/), [Apache Spark](https://spark.apache.org/) and [Apache Superset](https://superset.apache.org/)
 * [Python](https://www.python.org/) programming language
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
-* Data analysis with data pipelines (often) using a combination of [Apache Airflow](https://airflow.apache.org/), [Apache Spark](https://spark.apache.org/) and [Apache Superset](https://superset.apache.org/)
 
 ### Contextualise Projects
 
 #### Contextualise Platform
 
-Contextualise is a software platform that enables people to take whatever data is relevant to them and understand it more easily and thoroughly than ever before.
+Contextualise is a software platform that enables users to transform relevant data into meaningful insights, leveraging concepts they already understand. It simplifies complex information, making it easier to comprehend and explore.
 
 #### Reveal.js-Based Knowledge Paths
 
