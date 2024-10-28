@@ -24,9 +24,9 @@ Technologies I enjoy working with, include:
 
 ### Contextualise Projects
 
-#### Contextualise Platform
+#### Contextualise AI
 
-Contextualise is a software platform that enables users to transform relevant data into meaningful insights, leveraging concepts they already understand. It simplifies complex information, making it easier to comprehend and explore.
+Contextualise AI is a software platform that enables users to transform relevant data into meaningful insights, leveraging concepts they already understand. It simplifies complex information, making it easier to comprehend and explore.
 
 #### Reveal.js-Based Knowledge Paths
 
