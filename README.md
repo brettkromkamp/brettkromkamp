@@ -14,6 +14,7 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Technologies I enjoy working with, include:
 
+* LLM applications with [LangChain](https://www.langchain.com/) and [LlamaIndex](https://www.llamaindex.ai/) frameworks
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
 * Labeled property graphs including (but, not limited to) [Apache TinkerPop](https://tinkerpop.apache.org/) graph computing framework together with [Gremlin](https://tinkerpop.apache.org/gremlin.html) query language
 * Data analysis with data pipelines (often) using a combination of [Apache Airflow](https://airflow.apache.org/), [Apache Spark](https://spark.apache.org/) and [Apache Superset](https://superset.apache.org/)
