@@ -12,7 +12,7 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Technologies I enjoy working with, include:
 
-* LLM applications with [LangChain](https://www.langchain.com/) and [LlamaIndex](https://www.llamaindex.ai/) frameworks
+* LLM-based applications with [LangGraph](https://www.langchain.com/langgraph) and [LlamaIndex](https://www.llamaindex.ai/) frameworks
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
 * [Kuzu](https://kuzudb.com) in-process labeled property graph database with Cypher query language support
 * [Python](https://www.python.org/) programming language
