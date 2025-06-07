@@ -6,8 +6,6 @@ You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Fi
 
 I am working on the next version of [Contextualise](https://contextualise.dev/), a personal knowledge management application. Knowledge management is a [crowded space](https://github.com/brettkromkamp/awesome-knowledge-management). My contribution to the plethora of approaches and applications in this space is based on a combination of semantic technologies and language model workflows.
 
-**I ask everyone to support the people of Ukraine who are being invaded by Russia**. [Donate now](https://supportukrainenow.org/).
-
 I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __semantic technologies__, data pipelines and large language models.
 
 Technologies I enjoy working with, include:
