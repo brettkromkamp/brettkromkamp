@@ -12,7 +12,11 @@ Technologies I enjoy working with, include:
 
 * LLM-based applications with [LangGraph](https://www.langchain.com/langgraph) and [LlamaIndex](https://www.llamaindex.ai/) frameworks
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
-* [Kuzu](https://kuzudb.com) in-process labeled property graph database with Cypher query language support
+* [Memgraph](https://memgraph.com/docs) graph database
+* [Milvus](https://milvus.io/docs) vector database
+* [Kuzu](https://docs.kuzudb.com/) graph database
+* [Chroma](https://docs.trychroma.com/docs/overview/introduction) vector database
+* [DuckDB](https://duckdb.org/docs/stable/) relational database
 * [Python](https://www.python.org/) programming language
 * [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
