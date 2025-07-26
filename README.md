@@ -12,7 +12,6 @@ Technologies I enjoy working with, include:
 
 * LLM-based applications with [LangGraph](https://www.langchain.com/langgraph) and [LlamaIndex](https://www.llamaindex.ai/) frameworks
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
-* [Memgraph](https://memgraph.com/docs) graph database
 * [Milvus](https://milvus.io/docs) vector database
 * [Kuzu](https://docs.kuzudb.com/) graph database
 * [Chroma](https://docs.trychroma.com/docs/overview/introduction) vector database
