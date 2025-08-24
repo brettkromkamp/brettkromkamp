@@ -11,7 +11,6 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 Technologies I enjoy working with, include:
 
 * [Python](https://www.python.org/) programming language
-* [Go](https://go.dev/) programming language
 * LLM-based applications with [LangGraph](https://www.langchain.com/langgraph) and [LlamaIndex](https://www.llamaindex.ai/) frameworks
 * [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
 * [Milvus](https://milvus.io/docs) vector database
