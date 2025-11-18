@@ -13,7 +13,7 @@ Projects I am currently working on, include:
 
 ### Contextualise Projects
 
-### Contextualise Knowledge Management System
+#### Contextualise Knowledge Management System
 Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 
 #### Reveal.js-Based Knowledge Paths
