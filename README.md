@@ -4,28 +4,17 @@
 
 You've reached [Brett Kromkamp](https://brettkromkamp.com/)'s GitHub profile. Find me on [Mastodon](https://indieweb.social/@brettkromkamp).
 
-I am working on the next version of [Contextualise](https://contextualise.dev/), a personal knowledge management application. Knowledge management is a [crowded space](https://github.com/brettkromkamp/awesome-knowledge-management). My contribution to the plethora of approaches and applications in this space is based on a combination of semantic technologies and language model workflows.
+I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/).
 
-I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/contextualise), [TopicDB](https://github.com/brettkromkamp/topic-db) and a couple of other open source projects. I also have several published Python packages on [PyPI](https://pypi.org/user/brettkromkamp/). Expect many of my projects to be related to __semantic technologies__, data pipelines and large language models.
+Projects I am currently working on, include:
 
-Technologies I enjoy working with, include:
-
-* [Python](https://www.python.org/) programming language
-* [Go](https://go.dev/) programming language
-* LLM-based applications with [LangGraph](https://www.langchain.com/langgraph) and [LlamaIndex](https://www.llamaindex.ai/) frameworks
-* [Topic maps](https://ontopia.net/topicmaps/materials/tao.html) describing knowledge structures and associating them with information resources
-* [Milvus](https://milvus.io/docs) vector database
-* [Kuzu](https://docs.kuzudb.com/) graph database
-* [Chroma](https://docs.trychroma.com/docs/overview/introduction) vector database
-* [DuckDB](https://duckdb.org/docs/stable/) relational database
-* [FastAPI](https://fastapi.tiangolo.com/) web framework for building APIs
-* [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
+* __Emotional Companion__, an [iOS](https://developer.apple.com/ios/) app using the [Swift](https://www.swift.org/) programming language
+* __Contextualise__, a knowledge management system using the [Python](https://www.python.org/) programming language and [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 
 ### Contextualise Projects
 
-#### Contextualise AI
-
-Contextualise AI is a software platform that enables users to transform relevant data into meaningful insights, leveraging concepts they already understand. It simplifies complex information, making it easier to comprehend and explore.
+### Contextualise Knowledge Management System
+Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 
 #### Reveal.js-Based Knowledge Paths
 
