@@ -8,7 +8,7 @@ I contribute to and maintain [Contextualise](https://github.com/brettkromkamp/co
 
 Projects I am currently working on, include:
 
-* Suite of mental health-related [iOS](https://developer.apple.com/ios/) apps using [Swift](https://www.swift.org/) and [RealityKit](https://developer.apple.com/documentation/realitykit/), Apple's high-performance 3D framework 
+* Suite of [iOS](https://developer.apple.com/ios/) apps using [Swift](https://www.swift.org/) and [RealityKit](https://developer.apple.com/documentation/realitykit/), Apple's high-performance 3D framework 
 * __Contextualise__, a knowledge management system using the [Python](https://www.python.org/) programming language and [Flask](https://flask.palletsprojects.com/en/2.2.x/) web framework
 
 ### Contextualise Projects
