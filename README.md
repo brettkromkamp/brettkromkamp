@@ -39,7 +39,7 @@ A tool is a member when it reads a topic map, writes one, or does both. No other
 ###### Tools That Write Maps
 
 - The pipeline writes a topic map about a subject from source material, in numbered passes. A language model drafts each pass, and a person approves it.
-- corpus-map reads a folder of Markdown documents and writes a map of what they are about. It first proposes the vocabulary as a topic map that a person reviews. Then it chooses the core subjects of the whole set, grouped in areas. Every statement keeps the scope of the document that made it.
+- ```corpus-map``` reads a folder of Markdown documents and writes a map of what they are about. It first proposes the vocabulary as a topic map that a person reviews. Then it chooses the core subjects of the whole set, grouped in areas. Every statement keeps the scope of the document that made it.
 - scenario-planner makes possible future scenarios for a domain from real sources, and exports its graph as a topic map.
 - topic-map-editor opens a topic map and edits all of it, scope included, then writes the file back.
 
