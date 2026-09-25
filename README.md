@@ -16,10 +16,6 @@ Projects I am currently working on, include:
 #### Contextualise Knowledge Management System
 Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 
-#### Reveal.js-Based Knowledge Paths
-
-Extending [Contextualise](https://contextualise.dev/) to include a [reveal.js](https://revealjs.com/)-based presentation mode to supplement the existing [knowledge path](https://brettkromkamp.com/posts/knowledge-paths/) feature.
-
 #### Mixing Art and Code to Build Engaging Web Experiences
 
 Development of web content models, concepts, creation processes and tools: mix art and code to build interactive, [engaging web experiences](https://brettkromkamp.com/posts/engaging-web-experiences/)
