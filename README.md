@@ -40,22 +40,22 @@ A tool is a member when it reads a topic map, writes one, or does both. No other
 
 - The pipeline writes a topic map about a subject from source material, in numbered passes. A language model drafts each pass, and a person approves it.
 - ```corpus-map``` reads a folder of Markdown documents and writes a map of what they are about. It first proposes the vocabulary as a topic map that a person reviews. Then it chooses the core subjects of the whole set, grouped in areas. Every statement keeps the scope of the document that made it.
-- scenario-planner makes possible future scenarios for a domain from real sources, and exports its graph as a topic map.
-- topic-map-editor opens a topic map and edits all of it, scope included, then writes the file back.
+- ```scenario-planner``` makes possible future scenarios for a domain from real sources, and exports its graph as a topic map.
+- ```topic-map-editor``` opens a topic map and edits all of it, scope included, then writes the file back.
 
 ###### The Shared Foundation
 
-- topic-map-engine holds the model, the traversal and the scope matching, with no framework attached. It also holds TMQL, a small query language that walks, filters and scopes in one query.
+- ```topic-map-engine``` holds the model, the traversal and the scope matching, with no framework attached. It also holds ```TMQL```, a small query language that walks, filters and scopes in one query.
 
 ###### A Tool That Reads and Writes
 
-- structure-map reads a topic map and writes a diagram for diagrammer, a report with its sources, and the topic map itself. The diagram is a first layout that a person keeps arranging in diagrammer, and a diagram that a person changed is never overwritten.
+- ```structure-map``` reads a topic map and writes a diagram for diagrammer, a report with its sources, and the topic map itself. The diagram is a first layout that a person keeps arranging in diagrammer, and a diagram that a person changed is never overwritten.
 
 ###### Tools That Read Maps
 
-- diagrammer draws a topic map as an isometric diagram that a person arranges. It has two vocabularies: Place, for subject matter that is spatial, and Structure, for subject matter that is not. Each object binds to a topic or an occurrence, so the diagram is a view onto the map.
-- experience-builder turns a topic map into a configurator for a real-world walk. The walker's choices select which scoped variant of each stop's content they read.
-- systems-builder reads stocks, flows and feedback loops from a topic map and simulates them. Its whole vocabulary is declared inside the map, not added to the engine.
+- ```diagrammer``` draws a topic map as an isometric diagram that a person arranges. It has two vocabularies: Place, for subject matter that is spatial, and Structure, for subject matter that is not. Each object binds to a topic or an occurrence, so the diagram is a view onto the map.
+- ```experience-builder``` turns a topic map into a configurator for a real-world walk. The walker's choices select which scoped variant of each stop's content they read.
+- ```systems-builder``` reads stocks, flows and feedback loops from a topic map and simulates them. Its whole vocabulary is declared inside the map, not added to the engine.
 
 #### Mixing Art and Code to Build Engaging Web Experiences
 
