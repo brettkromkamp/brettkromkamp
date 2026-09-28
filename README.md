@@ -24,11 +24,6 @@ Contextualise is a set of tools that share one information model: topic maps. A 
 
 The ecosystem tests one claim. Topic maps are a meta model, and scope makes them expressive enough to hold many kinds of knowledge without a change to the model. Each tool is evidence for that claim, because each one puts a different kind of knowledge into the same model.
 
-##### Explorable, Not Only Renderable
-
-A report, a diagram or a booklet is a projection of knowledge. A projection runs in one direction. If a reader disagrees with a report, a correction to the report is lost at the next run.
-
-So every tool that makes a projection also makes, or keeps, the topic map behind it. The map is the knowledge in a form that a person can read, query and change. The reader opens the map, corrects the topic, and makes the projection again. This loop is what "explorable" means here. A tool that gives only a document or a picture gives something renderable. A tool that also gives the map gives something explorable.
 
 ##### The Rule For Membership
 
